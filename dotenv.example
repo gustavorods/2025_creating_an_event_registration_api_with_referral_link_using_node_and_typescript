@@ -1,0 +1,10 @@
+PORT=
+
+# URLs
+WEB_URL=""
+
+
+# DATABASE
+
+POSTGRES_URL=""
+REDIS_URL=""
