@@ -2,6 +2,9 @@
 
 [English](README.md) · [Português (Brasil)](README.pt-BR.md) · [Español](README.es.md)
 
+> **[How does it work? (Overview)](docs/como-funcionam-as-indicacoes/README.md)**
+> Explore the referral flow step by step, with an example and links to the code.
+
 An API for registering participants, tracking invitations, and viewing a referral leaderboard.
 
 [Run the complete project](RUNNING_THE_PROJECT.md) · [Frontend documentation](frontend/README.md)

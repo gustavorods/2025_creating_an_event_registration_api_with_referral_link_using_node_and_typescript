@@ -2,6 +2,9 @@
 
 [English](README.md) · [Português (Brasil)](README.pt-BR.md) · [Español](README.es.md)
 
+> **[Como isso funciona? (visão geral)](docs/como-funcionam-as-indicacoes/README.pt-BR.md)**
+> Entenda o fluxo de indicações passo a passo, com exemplo e links para o código.
+
 API para cadastrar participantes, acompanhar convites e consultar um ranking de indicações.
 
 [Como rodar o projeto completo](COMO_RODAR_O_PROJETO_COMPLETO.md) · [Documentação do frontend](frontend/README.pt-BR.md)

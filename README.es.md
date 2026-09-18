@@ -2,6 +2,9 @@
 
 [English](README.md) · [Português (Brasil)](README.pt-BR.md) · [Español](README.es.md)
 
+> **[¿Cómo funciona? (Visión general)](docs/como-funcionam-as-indicacoes/README.es.md)**
+> Entiende el flujo de recomendaciones paso a paso, con un ejemplo y enlaces al código.
+
 Una API para registrar participantes, seguir invitaciones y consultar una clasificación de recomendaciones.
 
 [Cómo ejecutar el proyecto completo](RUNNING_THE_PROJECT.es.md) · [Documentación del frontend](frontend/README.es.md)
