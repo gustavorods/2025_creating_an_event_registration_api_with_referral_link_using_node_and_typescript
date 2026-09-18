@@ -1,0 +1,6 @@
+{
+  "/subscriptions": { "target": "http://127.0.0.1:3333", "secure": false },
+  "/subscribers/**": { "target": "http://127.0.0.1:3333", "secure": false },
+  "/ranking": { "target": "http://127.0.0.1:3333", "secure": false },
+  "/invites/**": { "target": "http://127.0.0.1:3333", "secure": false }
+}
